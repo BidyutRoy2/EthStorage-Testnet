@@ -17,10 +17,10 @@ https://github.com/dxzenith/EthStorage-Testnet/assets/161211651/7fbda0a2-6b67-43
 - This script is functional only on Codespace
 - Use the EVM address which you submitted in the whitelist form
 - Also make sure that you have atleast 1 Sepolia ETH on this address
-- Open [CodeSpace](https://github.com/codespaces)
+- Open [CodeSpace Here](https://github.com/codespaces)
 - Paste this command :
 ```bash
-wget https://raw.githubusercontent.com/dxzenith/EthStorage-Testnet/main/ethstorage.sh && chmod +x ethstorage.sh && ./ethstorage.sh
+wget https://raw.githubusercontent.com/BidyutRoy2/EthStorage-Testnet/main/ethstorage.sh && chmod +x ethstorage.sh && ./ethstorage.sh
 ```
 
 
@@ -35,7 +35,7 @@ Application's Web3 Link : <You will get this on codespace terminal>
 Deployment Address : <Your Address>
 ```
 
-- Copy the tweet link and fill up [this form](https://dawme4mo.forms.app/ethstorage-2nd-campaign-submission?ref=blog.ethstorage.io)
+- Copy the tweet link and fill up [this form Here](https://dawme4mo.forms.app/ethstorage-2nd-campaign-submission?ref=blog.ethstorage.io)
 
 ## Submission
 
