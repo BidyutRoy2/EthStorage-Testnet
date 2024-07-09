@@ -1,3 +1,7 @@
+<p align="center">
+<img src='fundraised.jpg' width='900'>
+</p>
+
 
 ## Whitelist Form
 
